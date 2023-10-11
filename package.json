@@ -1,0 +1,16 @@
+{
+  "name": "cloudinary-image-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "scripts": {
+    "upload": "upload.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "dotenv": "^16.3.1"
+  }
+}
